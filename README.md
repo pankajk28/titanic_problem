@@ -1,0 +1,2 @@
+# titanic_problem
+OnApril15,1912,RoyalMailShipTitanicwasaBritishLuxuryshipwhichsankduringitsfirstvoyageaftercollidingwithaniceberg.Becauseofthis1502outof2224passengersandcrewdied.Thereasonwhichledtosomanydeathwasmentionedasnothavingsomanylifeboatsforthepassengers and the most of  people who survived were women, children, and first class passengers.Thisproblemisaclassificationproblem,becauseheretheoutcomewillonlybeSurvivedorNotSurvivedinnumerical values it will be 1 or 0.Using Machine learning different models i am going to predict the survival.
